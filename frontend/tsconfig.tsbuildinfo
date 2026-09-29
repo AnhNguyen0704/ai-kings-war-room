@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/components/agentlist.tsx","./src/components/commandbar.tsx","./src/components/messagebubble.tsx","./src/components/statepanel.tsx","./src/pages/lobbypage.tsx","./src/pages/roompage.tsx","./src/services/api.ts","./src/stores/roomstore.ts","./src/types/index.ts"],"version":"5.9.3"}
